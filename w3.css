@@ -1,0 +1,96 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    font-size: 22px;
+}
+*{
+    padding: 0;
+}
+.contents{
+   
+    height: 75px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 30px 0px 30px;
+}
+.w3logo{
+    height: 44px;
+    width: 44px;
+}
+.itmes{
+
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 50px;
+    
+}
+.log{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+button{
+    height: 40px;
+    width: 100px;
+    background-color: green;
+    color:white;
+    border-radius: 20px;
+    border: 0cm;
+}
+.black{
+    background-color: rgb(37, 33, 33);
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items:center ;
+    padding: 10px;
+    
+}
+ .menu{
+    margin: 10px;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.menu li{
+    display: flex;
+    align-items: center;
+    width:100px;
+    height: 50px;
+}
+
+.jv {
+    margin: 0 52px 0px 0px;
+}
+
+.icon {
+    display: flex;
+    list-style: none;
+    
+
+}
+.icon li{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    width: 100px;
+   
+}
+#c{
+    padding-left: 100px;
+
+    
+}
+.black li:hover{
+    background-color: black;
+    height: 60px;
+    width: 100px;
+}
+
